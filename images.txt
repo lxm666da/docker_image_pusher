@@ -1,7 +1,2 @@
-elastic/elasticsearch:8.16.4
-
-elastic/logstash:8.16.4 
-
-elastic/kibana:8.16.4  
-
+elastic/filebeat:8.16.4
 --platform=linux/amd64
