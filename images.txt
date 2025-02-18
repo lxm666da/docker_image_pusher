@@ -1,2 +1,2 @@
-elastic/filebeat:8.16.4
---platform=linux/amd64
+elastic/eck-operator:2.16.1
+ --platform=linux/amd64
